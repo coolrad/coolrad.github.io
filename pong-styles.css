@@ -12,7 +12,7 @@ body {
 
 #game {
   margin: 10px;
-  border: 5px solid black;
+  border: 5px solid rgb(255, 255, 255);
   left: 0;
   position: absolute;
 }
@@ -75,7 +75,7 @@ body {
 .ball {
   width: 20px;
   height: 20px;
-  background-color: red;
+  background-color: rgb(66, 64, 64);
   border-radius: 10px;
   position: absolute;
   left: 50px;
