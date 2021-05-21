@@ -52,7 +52,7 @@ soundArray.push(paddleSound);
 export var scoreSound = new soundFile("phaserDown2.mp3");
 soundArray.push(scoreSound);
 
-export var ambientSound = new soundFile("ocean-waves.mp3");
+export var ambientSound = new soundFile("Birds-chirping-sound-effect.mp3");
 soundArray.push(ambientSound);
 ambientSound.player.loop = true; //turn on looping
 ambientSound.player.volume.value = -20; //turn down volume
