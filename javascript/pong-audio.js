@@ -62,7 +62,7 @@ soundArray.push(adventureMusic);
 adventureMusic.player.loop = true;
 adventureMusic.player.volume.value = -16;
 
-export var villageMusic = new soundFile("AvatarsLove.mp3");
+export var villageMusic = new soundFile("Paddlesound.mp3");
 soundArray.push(villageMusic);
 villageMusic.player.loop = true;
 villageMusic.player.volume.value = -16;
